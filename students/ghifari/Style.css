@@ -1,0 +1,24 @@
+p{
+background-color: Blue;
+padding: 10px 20px 30px 40px;
+    margin: 50px;
+    border: dashed 2px yellow;
+    border-radius: 8px;
+
+    
+}
+
+#wrapper{
+background-color: green;
+max-width: 800px;
+ margin: 0px auto;
+padding: 10px 20px 30px 40px;
+border: dashed 2px red;
+border-radius:8px ;
+border-top: dashed 8px white;
+border-right: dashed 8px white;
+border-left: dashed 8px white;
+border-bottom: dashed 8px white;   
+   
+        
+}

@@ -1,0 +1,41 @@
+body {
+    background-image: url("nice_snow.png");
+    font-family: sans-serif;
+    color: #363942;
+}
+#wrapper {
+    background-color: #D3D3DB;
+    width: 530px;
+    margin: 0px auto;
+    border: 2px solid #a1a1a1;
+    padding: 10px 40px;
+    border-radius: 25px;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+a:link {
+    color: #FF0000;
+}
+
+a:visited {
+    color: #115052;
+}
+
+a:hover {
+    color: #FF00FF;
+}
+
+a:active {
+    color: #0000FF;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 10px;
+}
+
+li {
+    display: inline;
+    margin: 15px;
+}

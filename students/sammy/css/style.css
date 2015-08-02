@@ -1,0 +1,18 @@
+body{
+background-color:blue;    
+color:red;
+font-family:sans-serif;
+    background-image:url(http://3.bp.blogspot.com/-yYUZTCrgSSA/Unwgc93PV4I/AAAAAAAABps/ixdj53tNTa0/s1600/LEGO-Marvel-Superheroes-Game-Poster.jpg)
+}
+
+#wrapper{
+   width:800px;
+   margin:0px auto;  
+   background-color: #0066FF; 
+   border:solid 4px black
+   border-style:dotted;     
+   border-width:4px     
+   border-color:gold;
+         
+   padding:20px; 
+}

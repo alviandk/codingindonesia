@@ -1,0 +1,51 @@
+body{
+    background-image:url(../images/squared_metal.png);
+    font-family:sans-serif;
+    color:white;
+}
+#games li{
+    list-style-type:none;
+    
+}
+
+
+a:link{
+ color:white; 
+}
+
+a:hover{
+    color:blue;
+}
+
+a:visited{
+    color:purple;
+}
+
+a:link{
+    color:brown;
+}
+    a:hover{
+        color:orange;
+}
+a:visited{
+    color:yellow;
+}
+    
+#wrapper{
+    background-color:#85A7BE;
+    width:800px;
+    margin:0 auto;
+    padding:20px;
+    border-radius:8px;
+}
+
+#menu ul{
+    pading:0;
+}
+#menu ul li{
+display:inline;
+    margin-right:10px;
+}
+
+
+

@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(250,75,50);
+    color:rgb(100,250,100);
+    font-family:fantasy;
+    background-image:url(Death.jpg);
+    
+}
+
+h1{
+    color:#ccffff;
+}
+
+h2{
+    color:#7575FF;
+}
+
+div#wrapper{
+    background-color:dimgrey;
+    width: 760px;
+}
+
+div#intro{
+    background-color: darkblue;
+}
+div#wrapper{
+     background-color:green;
+    width: 720px;
+    padding: 20px;
+    border-top: dashed 10px wheat;
+    border-bottom: double 10px chocolate;
+    border-left: solid 10px red;
+    border-right: groove 10px azure;
+}

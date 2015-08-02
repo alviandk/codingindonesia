@@ -1,0 +1,19 @@
+#featuredimage img {
+    width: 400px;
+}
+#featuredimage {
+    text-align: center
+}
+#header {
+    text-align: center
+}
+body {
+    background-image: url(images/background%202.png);
+}
+#header ul li {
+    display: inline;
+    margin: 0px 10px 0px 0px;
+}
+#header ul {
+    list-style: none
+}

@@ -1,0 +1,42 @@
+#featured_image img {
+    width: 900px
+}
+#wrapper {
+    background-color: #080829;
+    padding : 10px;width : 900px; margin: 0px auto;
+}
+
+body {
+    font-family:monospace ; color: #2952CC;
+    background-image: url(images/retro-8-bit-pixelart-wallpapers-20.gif);
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    background-color: #0F0F4C; border-radius: 2px;
+    padding: 10px
+}
+
+#header ul {
+    list-style: none;text-align: center
+}
+
+#header ul li {
+    display: inline; margin: 0px 10px 0px 0px;
+}
+
+a:link {
+    color: #3333FF; text-decoration-line: underline
+}
+
+a:visited {
+    color: orange; text-decoration-line: underline
+}
+h2 {
+    text-align: 
+        justify
+        
+}

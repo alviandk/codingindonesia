@@ -1,0 +1,30 @@
+body{ 
+    
+    color:yellow;
+    background-image:url(/Users/macintosh/Documents/rakan/bracket/kafka/images/use_your_illusion.png);
+
+}
+
+#wrapper{
+    margin:0px auto;
+    background-color:#1C548B ;
+    width:800px;
+    padding:20px;
+    border:solid 4px white;
+}
+
+#menu ul li{
+    display:inline;
+    margin-right:10px;}
+        
+a:link{
+    color:black;
+        text-decoration:none;
+}
+
+a:hover{
+    color:blue;
+    text-decoration:underline;
+}
+        
+        

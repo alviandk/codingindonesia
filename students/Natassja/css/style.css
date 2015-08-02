@@ -1,0 +1,20 @@
+body{
+ background-image:url(../images/triangular.png);
+
+}
+
+#wrapper{
+width:800px;
+padding:20px;
+margin:0px auto;
+background-color:;
+}
+#header{
+padding:20px
+colour:white;
+background-color:#9E15E4;
+font-family:monospace;
+}
+#header h1{
+    text-align:center;
+}

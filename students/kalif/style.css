@@ -1,0 +1,32 @@
+body{
+    background-color: #8EBB82; 
+    font-family: fantasy;
+    color: black;
+}
+    
+h1{
+}    
+
+
+
+#wrapper{
+background-color:green;
+ max-width:800px;
+margin:0px auto;
+border-bottom: dashed 10px blue;
+border-right: dashed 10px yellow;
+border-left: dashed 10px black;
+border-top: dashed 10px cyan;
+padding: 20px;
+    
+}
+
+#header ul{
+list-style-type: none;
+    padding: 0;
+}
+
+#header ul li{
+display: inline;
+margin-right: 10px;
+}

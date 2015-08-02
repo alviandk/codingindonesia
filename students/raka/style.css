@@ -1,0 +1,33 @@
+body {
+    background-color: #66FF66;
+    font-family: monospace;
+    color: blue
+}
+#wrapper {
+    background-color: black;
+    max-width: 800px;
+    margin:0px auto;
+    
+    border-top:dashed 25px blue;
+    border-left: dotted 25px red;
+    border-bottom: double 25px green;
+
+    border-right: groove 25px yellow;
+    
+    border-radius: 36px;
+    box-shadow:100px 100px white;
+    
+    padding: 20px;
+        
+        
+    
+}
+
+h1 {
+    color: #BA834D;
+}
+li {
+    color: yellow;
+    
+}
+

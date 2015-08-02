@@ -1,0 +1,36 @@
+body{
+   background-color:black; 
+    font-family:sans-serif;
+    background-image:url(../images/background.jpg);
+    color:white;
+}
+
+a:link{
+    color:yellow;
+}
+
+a:hover{
+    color:orange;
+}
+
+a:visited{
+    color:yellow;   
+}
+
+#wrapper{
+    background-color:#53728F ;
+    width:800px;
+    margin:0 auto;
+    padding:20px;
+    border-radius:8px;
+}
+
+#menu ul{
+    padding:0;
+}
+
+#menu ul li{
+    display:inline;
+    margin-right:10px;
+}
+

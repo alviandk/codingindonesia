@@ -1,0 +1,59 @@
+body{
+    background-color: #66FFCC;
+    font-family: fantasy;
+    color:#8EBB82;
+    border: solid 10px blue;
+    border-style: groove
+
+}
+
+h1{
+    font-family: sans-serif;
+    padding: center; 
+    color: orange;
+    margin-left: 20px ;
+    
+}
+
+img{
+    margin-left: 40px ;
+
+}
+
+iframe{
+    margin-left: 40px ;
+}
+
+h2{
+    padding:inherit;
+    font-family: monospace;
+    color: black;
+    margin-left: 20px ;
+    
+}
+
+p{
+    padding-top: 25px;
+    font-family: fantasy;
+    color: black;
+    margin-left: 20px ;
+
+}
+#wrapper{
+    background-color: #33CC33;
+    max-width: 800px;
+    margin:0px auto;
+    border: solid 5px #0099FF;
+    border-style:dashed;
+}
+
+
+#header ul{
+list-style-type: none;
+    padding: 20px;
+}
+
+#header ul li{
+display: inline;
+margin-right: 10px;
+}

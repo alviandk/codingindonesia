@@ -1,0 +1,26 @@
+
+body{background-color: azure;
+    background-image: url(maxresdefault.jpg);
+color: firebrick;
+    font-family:inherit;
+    
+}
+h1{
+    color: aquamarine;
+}
+h2{
+    color:forestgreen;
+}
+h3{
+    color:crimson;
+}
+div#wrapper{
+    background-color: darkgoldenrod;
+    width:760px;
+    padding: 67px;
+    margin: 0px auto
+}
+div#intro{
+    background-color: antiquewhite;
+    padding: 48px;
+}

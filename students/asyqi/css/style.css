@@ -1,0 +1,22 @@
+body{
+ background-color:orange;
+ color:red;
+ background-image:url(../images/Background.jpg);
+}
+
+#wrapper{
+ margin:0px auto;
+ background-color:#FCF0CC;
+ width:800px;
+  padding:20px;
+    border:solid 4px;
+}
+
+#menu ul{
+ padding:0;   
+}
+
+#menu ul li{
+    display:inline;
+    margin-right:10px;
+}

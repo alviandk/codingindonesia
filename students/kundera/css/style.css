@@ -1,0 +1,47 @@
+body{
+        background-color:red;
+    color:white;
+    background-image:url(../image/binding_dark.png);
+
+}
+#wrapper
+    {
+margin:0px auto;
+background-color:#130617;
+width:800px;
+    
+    padding:20px;
+    border:solid 4px gold;
+}
+#menu ul{
+    padding:0;
+   
+
+}
+#menu ul li{
+    display:inline;    
+    margin-right:10px;
+}
+
+a:link{
+    color:white;
+    text-decoration:none;
+}
+a:hover{
+    color:yellow;
+    text-decoration:none;
+}
+a:visited{
+    color:red;
+    text-decoration:line-through;
+}       
+a:active{
+    color:blue;
+    text-decoration:underline;
+}
+
+#keyvisual{
+    height:340px;
+    width:760px;
+    background-image:url(../image/Dinosaur.jpg);
+}

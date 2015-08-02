@@ -1,0 +1,41 @@
+body{
+  background-color:  #FF6600;
+ font-family: fantasy;
+  color: orange;   
+} 
+
+h1{
+    color: #5AA6A2;
+}
+
+p{
+    color: white;
+}   
+
+
+#wrapper{
+    background-color: black;
+    max-width:800px; 
+   margin:0px auto; 
+       
+}
+p{
+border-radius: 8px ;  
+ box-shadow: 4px 4px grey;
+}
+#wrapper{
+     border-bottom : dashed 10px black;
+     border-top: groove 10px  red;
+     border-style: solid;
+     padding: 50px;
+}    
+#header ul{
+ list-style : none;
+    padding: 0;
+}
+
+#header ul li{
+ display: inline;
+margin-right:10px;
+}
+     

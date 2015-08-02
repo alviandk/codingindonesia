@@ -1,0 +1,67 @@
+body{ 
+    
+    color:white;
+    background-image:url(../images/codingbackground.jpg);
+    font-family:cursive;
+}
+
+#wrapper{
+    margin:0px auto;
+    background-color: ;
+    width:800px;
+    padding:20px;
+    border:solid 4px ;
+    
+}
+#menu ul{
+    padding:0;
+}
+#menu ul  li{
+    display:inline;
+    margin-right:10px;
+}
+
+a:link{ 
+    color:white;
+    text-decoration:none;
+}
+
+a:hover{ 
+    color:orange;
+    text-decoration:none;
+}
+
+a:visited{
+    color:gray;
+    text-decoration:none;
+}
+a:active{ 
+    color:black;
+    text-decoration:underline;
+}
+
+h1,h2,h3{ 
+font-family:fantasy;
+
+}
+
+h4{
+font-family:cursive;
+}
+#keyvisual{ 
+    height: 400px;
+    width:800px;
+    background-image:url(../images/water.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
